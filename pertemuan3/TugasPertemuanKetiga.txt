@@ -1,0 +1,11 @@
+Tugas Pertemuan Ketiga
+1. Buatlah Array dengan isi angka sebanyak 10 angka dan cetak isi angka pada array tersebut pada index sebagai berikut : 0,3,5, dan 8
+
+2. Buatlah dictionary dengan tabel seperti contoh sebagai berikut :
+
+Nama   |  Gender | Email
+Fandi  |  Pria   | nunenuh@gmail.com
+Eby    |  Pria   | ebysofyan@gmail.com
+Cai    |  Pria   | .....
+
+Kemudian masukan tiap dictionary tersebut kedalam array dengan nama person. Setelah itu akses isi array pada baris pertama dengan kolom email.

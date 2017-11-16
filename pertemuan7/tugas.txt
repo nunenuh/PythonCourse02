@@ -1,5 +1,4 @@
 
-
 - Saya memiliki data sebagai berikut
 data = [100, 90, 80, 45, 50]
 

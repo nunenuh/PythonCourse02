@@ -1,0 +1,15 @@
+Tugas Pertemuan Keempat
+Buatlah dictionary dengan tabel seperti contoh 
+sebagai berikut :
+
+No. Urut | Nama   |  Gender | Email
+10       | Fandi  |  Pria   | nunenuh@gmail.com
+15        | Eby    |  Pria   | ebysofyan@gmail.com
+20        | Cai    |  Pria   | .....
+
+Kemudian masukan tiap dictionary tersebut kedalam array dengan nama persons. 
+Inputkan no. urut yang ingin dicari, 
+Setelah itu lakukan perulangan pada array tersebut dan ambil kolom No. Urut.
+Seteah itu cocokkan no. urut yang ingin dicari dengan nomor urut yang ada di kolom no. urut
+Setelah ditemukan, simpan dictionary tersebut kedalam variable person.
+Cetak person 

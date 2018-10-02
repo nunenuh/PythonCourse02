@@ -2,19 +2,11 @@
 
 # pembuatan variabel
 # dan pengisian nilai
-a = 10
-b = 5
 
-# operasi aritmatika
-c = a*b
-d = a+b
-e = a/b
-f = a-b
+nama = "cai"
+angka = 10
+angkaDesimal = 10.5
 
-# mencetak hasi
-print(c)
-print(d)
-print(e)
-print(f)
-
-
+print(nama)
+print(angka)
+print(angkaDesimal)

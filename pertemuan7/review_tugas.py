@@ -1,13 +1,11 @@
-
-
-#- Saya memiliki data sebagai berikut
-#data = [100, 90, 80, 45, 50]
-#contohnya: [100 -> A, 90 -> A, 80 -> B+, 45 -> D, 50 -> C]
-#Ketentuan :- Buatlah 2 buah fungsi
-#            - fungsi pertama untuk mencari grade nilai
- #           - fungsi kedua untuk mengubah nilai dalam array menjadi sebuah grade
-#Output :
-#[A, A, B+, D, C]
+# - Saya memiliki data sebagai berikut
+# data = [100, 90, 80, 45, 50]
+# contohnya: [100 -> A, 90 -> A, 80 -> B+, 45 -> D, 50 -> C]
+# Ketentuan :- Buatlah 2 buah fungsi
+#           - fungsi pertama untuk mencari grade nilai
+#           - fungsi kedua untuk mengubah nilai dalam array menjadi sebuah grade
+# Output :
+# [A, A, B+, D, C]
 
 def cari_grade(a):
     grade = ""
